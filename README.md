@@ -4,4 +4,5 @@
 
 * **HTML** 
 * **CSS**
+* **Java Script**
 * **VS CODE**
